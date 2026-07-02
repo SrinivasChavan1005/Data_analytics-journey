@@ -28,10 +28,19 @@ Today I started my Data Analytics journey by setting up my SQL environment and l
 | \conninfo | Show connection details |
 
 ---
+## 📸 SQL Shell Practice
+
+![PostgreSQL SQL Shell](images/sql1.png)
+![PostgreSQL SQL Shell](images/sql2.png)
+![PostgreSQL SQL Shell](images/sql3.png)
 
 ## 🗄 Database Basics
 
 Created my first database:
 
 ```sql
-CREATE DATABASE test;  
+CREATE DATABASE test; --to create database test 
+
+CREATE DATABASE temp; --to create database temp
+
+
